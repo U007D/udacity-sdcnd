@@ -1,0 +1,3 @@
+[submodule "opencv-parameter-tuner"]
+	path = opencv-parameter-tuner
+	url = git@github.com:maunesh/opencv-parameter-tuner.git
